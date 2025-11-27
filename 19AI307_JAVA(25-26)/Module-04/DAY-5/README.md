@@ -18,11 +18,11 @@ To implement a Mediator design pattern where an Air Traffic Control (ATC) system
 2. Create an AirTrafficControl mediator.
 
 3. For each airplane:
-
+```py
          =>Create an Airplane object linked to the ATC.
 
          =>Request landing through the mediator.
-
+```
 4. If landing is allowed and release flag is true, release the runway.
 
 5. Display landing status messages for each airplane.
@@ -125,4 +125,5 @@ public class AirTrafficSystem {
 
 ## RESULT:
 Airplanes communicate through the ATC mediator, which manages landing permissions, demonstrating centralized control without direct airplane-to-airplane communication.
+
 
