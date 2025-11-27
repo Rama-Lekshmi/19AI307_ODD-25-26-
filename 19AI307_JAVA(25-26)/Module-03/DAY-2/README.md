@@ -28,8 +28,8 @@ To implement inheritance in banking accounts by applying different withdrawal ru
  ```py
 /*
 Program to implement a Polymorphism using Java
-Developed by: Akshaya lakshmi V S
-RegisterNumber:  212222040005
+Developed by: Rama E.K. Lekshmi
+RegisterNumber:  212222240082
 */
 ```
 
@@ -117,3 +117,4 @@ public class BankSystem {
 
 ## RESULT:
 Thus, the program executed successfully and displayed the correct output based on the given input and conditions.
+
