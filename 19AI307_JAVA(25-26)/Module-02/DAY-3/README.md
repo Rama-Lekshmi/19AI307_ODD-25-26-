@@ -2,7 +2,7 @@
 
 ## QUESTION:
 Write a Java program to create a class called Smartphone with private instance variables brand, model, and storageCapacity. Provide public getter and setter methods to access and modify these variables. Add a method called increaseStorage() that takes an integer value and increases the storageCapacity by that value.
-
+```py
 import java.util.Scanner;
 
 class Smartphone {
@@ -54,7 +54,7 @@ class Smartphone {
 
 //continue your code here
 
-
+```
 ## AIM:
 To create a Smartphone class with private attributes and methods to access, modify, and increase storage.
 
@@ -74,7 +74,7 @@ To create a Smartphone class with private attributes and methods to access, modi
 
 
 ## PROGRAM:
- ```
+ ```py
 /*
 Program to implement a Access Specifiers using Java
 Developed by: Rama E.K. Lekshmi
@@ -83,7 +83,7 @@ RegisterNumber: 212222240082
 ```
 
 ## SOURCE CODE:
-```
+```py
 import java.util.Scanner;
 
 class Smartphone {
@@ -154,4 +154,5 @@ public class Main {
 
 ## RESULT:
 The program updates and displays the smartphone details, including the increased storage.
+
 
