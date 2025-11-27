@@ -37,8 +37,8 @@ To demonstrate accessing a private inner class in Java through a public method o
  ```py
 /*
 Program to implement a InnerClass using Java
-Developed by: A.ARUVI.
-RegisterNumber: 212222230014.
+Developed by: Rama E.K. Lekshmi
+RegisterNumber: 212222240082
 */
 ```
 
@@ -85,4 +85,5 @@ public class OuterClass {
 ## RESULT:
 
 The private inner class is successfully invoked using an outer-class method.
+
 
